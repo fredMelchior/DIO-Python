@@ -1,3 +1,4 @@
+# v1
 menu = """
 Digite para escolher sua operação:
 
