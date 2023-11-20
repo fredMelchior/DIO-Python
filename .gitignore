@@ -1,8 +1,12 @@
+desafios.py
+PythonSQL
+PythonNoSQL
+Django
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-desafios.py
 
 # C extensions
 *.so
